@@ -1,0 +1,7 @@
+# session-private material — never published (see manifest privacy note)
+conversation/
+.save_and_ship/
+CONTINUE.md
+files/
+skills/
+.DS_Store
