@@ -12,7 +12,7 @@
 
 ### *Fluency is not knowledge, confidence is not correctness,*<br/>*and "done" is an observation, not a feeling.*
 
-**[📖 Read the book](Fable-Masterclass.md)** · **[⚡ Install the skill](#-install-the-skill-30-seconds)** · **[⚖️ The 16 Laws](#️-the-16-laws)** · **[🧪 How it was made](#-how-it-was-made--the-full-session-step-by-step)**
+**[📖 Read the book](Fable-Masterclass.md)** · **[⚡ Install the skill](#-install-the-skill-30-seconds)** · **[⚖️ The 16 Laws](#%EF%B8%8F-the-16-laws)** · **[🧪 How it was made](#-how-it-was-made--the-full-session-step-by-step)**
 
 </div>
 
