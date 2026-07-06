@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.0.1 — 2026-07-06
+
+The star-magnet printing (docs only; book and skill untouched).
+
+- README: the overhaul that became the /awesome-readme exemplar — hero banner
+  ("the circle IS the craft"), 8 live badges, the self-distillation story with
+  receipts, two mermaid diagrams, the 16 Laws as a linked table, the full
+  making-of with the honest tool inventory and defects-caught list, star CTA.
+- The VS16 emoji-anchor lesson (⚖️ keeps an invisible U+FE0F in its rendered id)
+  was caught here first and encoded into /awesome-readme as its founding war story.
+
 ## v1.0.0 — 2026-07-06
 
 First release.
